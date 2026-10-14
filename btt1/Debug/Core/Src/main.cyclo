@@ -1,0 +1,9 @@
+../Core/Src/main.c:41:5:main	1
+../Core/Src/main.c:85:6:SystemClock_Config	3
+../Core/Src/main.c:120:13:MX_TIM2_Init	8
+../Core/Src/main.c:177:13:MX_GPIO_Init	1
+../Core/Src/main.c:194:6:Task_Button	18
+../Core/Src/main.c:241:6:Task_LED1	2
+../Core/Src/main.c:251:6:Task_LED2	2
+../Core/Src/main.c:261:6:Task_LED3	2
+../Core/Src/main.c:271:6:Error_Handler	1

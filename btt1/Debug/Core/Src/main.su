@@ -1,0 +1,9 @@
+../Core/Src/main.c:41:5:main	16	static
+../Core/Src/main.c:85:6:SystemClock_Config	72	static
+../Core/Src/main.c:120:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:177:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:194:6:Task_Button	32	static
+../Core/Src/main.c:241:6:Task_LED1	24	static
+../Core/Src/main.c:251:6:Task_LED2	24	static
+../Core/Src/main.c:261:6:Task_LED3	24	static
+../Core/Src/main.c:271:6:Error_Handler	4	static,ignoring_inline_asm
